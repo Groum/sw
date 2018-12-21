@@ -106,7 +106,7 @@ public class space {
 
 	     Scanner sc = new Scanner(System.in);
 	     
-	     System.out.println("Enter the file name");
+	     System.out.println("Enter the file name"); // The file name is collected from user
 	     
 	     name = sc.nextLine(); 
 	     
